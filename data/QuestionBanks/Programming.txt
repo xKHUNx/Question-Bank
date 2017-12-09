@@ -1,0 +1,25 @@
+4
+MC 25
+Which of the following is not a type of programming term?
+4
+Object Oriented Programming
+Neuro Linguistic Programming
+Procedural Programming
+Functional Programming
+B
+SA 71
+__________ numbers are very useful in the field of cryptography and network security.
+Prime
+TF 10
+Pointers is a data type that stores an address of another data type.
+true
+MC 50
+What is the name of algorithm that involves finding the shortest path in a graph.
+6
+Dijkstra's algorithm
+A* Seacrh Algorithm
+D* Algorithm
+Merge Sort
+Quantum Algorithm
+Hash Function
+A

@@ -1,0 +1,23 @@
+5
+SA 4
+Who came out with the General Relativity Theory?
+Albert Einstein
+TF 5
+Diamond is composed of crystallized carbon.
+true
+MC 5
+Who discovered radiation?
+3
+Henri Becquerel
+Marie Curie
+Pierre Curie
+A
+MC 10
+Which scientist publicly display of AC ( alternating current ) electrocution in front of a live audience?
+2
+Nikola Tesla
+Thomas Edison
+B
+SA 10
+__________ is a theory of biological evolution developed by the English naturalist Charles Darwin (1809-1882).
+Darwinism

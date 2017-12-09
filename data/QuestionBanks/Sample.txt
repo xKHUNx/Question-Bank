@@ -1,0 +1,17 @@
+3
+TF 5
+Pluto is classified as a dwarf planet within our solar system. (true/false)
+true
+MC 10
+Who created Wikipedia on the World Wide Web?
+6
+Steve Job
+Bill Gates
+Jimmy Wales
+James H. Clark
+Tom Davis
+Charles Baggage
+C
+SA 20
+The earth is surrounded by a blanket of air. What is it called?
+Atmosphere

@@ -1,0 +1,49 @@
+10
+TF 2
+Axis Alliance in World War II are Germany, Italy and Japan (true/false)
+true
+TF 2
+Abraham Lincoln is first president of America (true/false)
+false
+TF 2
+Dato' Sri Haji Mohammad Najib bin Tun Haji Abdul Razak is the sixth Prime Minister of Malaysia.
+true
+TF 2
+Malaysia Day is held on 31 August every year to commemorate the establishment of the Malaysian federation.
+false
+MC 3
+What is the below mega project that was built under the leadership of Dr Mahathir Bin Mohamad?
+4
+Empire States Building 
+Petronas Twin Tower 
+Maybank Tower 
+Millenium Tower
+B
+MC 3
+Which country seceded from Malaysia in 1965?
+4
+Brunei
+Singapore
+Taiwan
+Tibet
+B
+MC 3
+Which country occupied Malaysia during World War II?
+4
+Japan
+China
+British
+Vietnam
+A
+SA 4
+How Many Stripes are in the Malaysian Flag?
+14
+SA 4
+When was the year that governor of Portuguese India Afonso de Albuquerque subdued the city of Malacca?
+1511
+SA 4
+When was the year of September 11 attacks on the United States?
+2001
+
+
+

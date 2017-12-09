@@ -1,0 +1,25 @@
+5
+SA 12
+Who is known as the father of modern economics?
+Adam Smith
+TF 6
+Karl Marx is the author of Wealth of Nations. (True/False)
+false
+MC 20
+Which of the following is NOT an advantage of practicing monopoly?
+3
+Research & Development (R&D)
+Lower price
+Economies of scale
+B
+MC 30
+Which of the below is NOT the function of money?
+4
+Unit of account
+Medium of exchange
+Store of value
+Root of all evil
+D
+SA 25
+Company sells _________s to fund to expand their business.
+Stocks

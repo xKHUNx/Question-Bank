@@ -1,0 +1,60 @@
+12
+SA 20
+The earth is surrounded by a blanket of air. What is it called?
+Atmosphere
+MC 10
+Who created Wikipedia on the World Wide Web?
+6
+Steve Job
+Bill Gates
+Jimmy Wales
+James H. Clark
+Tom Davis
+Charles Baggage
+C
+TF 5
+Pluto is classified as a dwarf planet within our solar system. (true/false)
+true
+MC 10
+Who is the founder of Tesla Motors?
+4
+Bill Gates
+Warren Buffet
+Elon Musk
+Richard Branson
+C
+MC 52
+How many arrangement are possible for a set of poker cards?
+3
+52!
+520000
+10000 million
+A
+MC 12
+Who is the GREATEST leader of all time?
+6
+Mao ZheDong
+Kim Jongun
+Adolf Hitler
+Barrack Obama
+Osama bin Laden
+Putin
+B
+SA 11
+222 + 444 = ?
+666
+SA 11
+Am I sexy?
+YES
+TF 7
+Monkey King was introduced to Dota 2 in patch 7.01. (True/False)
+false
+SA 11
+What year was "The Elder Scroll V: Skyrim" released?
+2011
+TF 305
+Mr. 404 is the nickname of international rapper Pitbull.
+false
+SA 420
+What is another name of marijuana?
+weed

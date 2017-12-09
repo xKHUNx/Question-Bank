@@ -1,0 +1,49 @@
+10
+TF 2
+China is the largest area nation in the world. (true/false)
+false
+TF 2
+Penguin and polar bear live in north pole. (true/false)
+false
+TF 2
+India is the world's second most populous country after the People's Republic of China. (true/false)
+true
+TF 2
+Kuala Lumpur Tower is the tallest building in Malaysia. (true/false)
+false
+MC 3
+The longest river in the world is?
+4
+Amazon ¨C Ucayali ¨C Apur¨ªmac
+Nile ¨C Kagera
+Chang Jiang
+Yellow River
+A
+MC 3
+Where is Malaysia located?
+4
+Southeast Asia 
+Northwest Asia
+Central Asia
+Southwest Asia
+A
+MC 3
+What are some countries that border Malaysia?
+4
+Thailand, Vietnam, and Brunei 
+Indonesia, Thailand, and Vietnam
+Brunei, Indonesia, and Thailand 
+Vietnam, Brunei, and Indonesia
+C
+SA 4
+What kind of climate does Malaysia have?
+Tropical
+SA 4
+What is the largest state in Malaysia?
+Sarawak
+SA 4
+Malaysia has 3 federal territories and how many states?
+13
+
+
+
